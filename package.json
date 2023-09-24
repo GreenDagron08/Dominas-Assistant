@@ -1,0 +1,17 @@
+{
+  "name": "court-steward",
+  "version": "1.0.0",
+  "description": "Steward Bot for the Court of Desire",
+  "main": "index.js",
+  "scripts": {
+    "test": "!test"
+  },
+  "author": "Zero",
+  "license": "ISC",
+  "dependencies": {
+    "@sapphire/time-utilities": "^1.7.10",
+    "colorette": "^2.0.20",
+    "discord.js": "^14.13.0",
+    "enmap": "^5.9.8"
+  }
+}
